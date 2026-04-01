@@ -24,3 +24,8 @@ vite.config.ts.timestamp-*
 
 node_modules
 .vscode
+# Cloudflare Types
+/worker-configuration.d.ts
+
+.dev.vars*
+!.dev.vars.example
